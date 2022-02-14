@@ -1,6 +1,6 @@
 # Robust Inputs
 
-This is a signup system that writes customer information to a database, this repo was created to consider making code robust
+This is a signup system that writes customer information to a database, this repo was created to consider making code robust.
 
 ## Languages
 - PHP
