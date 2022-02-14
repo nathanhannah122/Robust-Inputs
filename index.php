@@ -58,7 +58,7 @@
             <input type="email" name="email" class="form-control mb-4" placeholder="Email" id="email" required >
 
             <!-- Name -->
-            <input type="text" name="name" class="form-control mb-4" placeholder="Name" id="name" required>
+            <input type="text" name="name" class="form-control mb-4" placeholder="Name" id="name" required maxlength="40">
 
             <!-- Age -->
             <input type="number" min="1" max="120" name="age" class="form-control mb-4" placeholder="Age" id="age" required> 
